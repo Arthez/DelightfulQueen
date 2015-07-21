@@ -8,4 +8,6 @@
     <string name="scale">Scale</string>
     <string name="alpha">Alpha</string>
     <string name="move">Move</string>
+    <string name="success_button_label">Success</string>
+    <string name="failure_button_label">Failure</string>
 </resources>

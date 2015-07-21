@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
     android:padding="@dimen/default_layout_padding">
 
     <Button
@@ -40,7 +41,5 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="@dimen/default_layout_padding"
         android:text="@string/move"/>
-
-
 
 </LinearLayout>

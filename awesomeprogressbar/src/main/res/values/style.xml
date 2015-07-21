@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="AwesomeProgressBar">
-        <attr name="lineThickness" format="dimension" />
+        <attr name="circleRadius" format="dimension"/>
+        <attr name="strokeThickness" format="dimension" />
         <attr name="animationDuration" format="integer" />
         <attr name="backgroundColor" format="color" />
         <attr name="progressBarColor" format="color" />
